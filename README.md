@@ -1,2 +1,2 @@
 # java-dev
-## Description
+## Project description:
